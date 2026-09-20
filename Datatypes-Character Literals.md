@@ -1,6 +1,6 @@
 # Datatypes-Character Literal in Python
-## NAME: MONISHA P
-## REF NO: 25018486
+## NAME: JANARTHANI R
+## REF NO: 25017541
 ## 🎯 Aim
 To write a Python program that prints the characters `'T'` and `'a'` using character literals.
 
